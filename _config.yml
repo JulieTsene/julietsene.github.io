@@ -1,11 +1,11 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
+title:            Julie Tsene
+longtitle:        Julie
+author:           Julie Tsene
 email:            gmdoukas@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
-
+  My books.
+  
 version:          1.0
 gitbook_version:  3.2.3
 
